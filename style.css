@@ -1,11 +1,25 @@
+
+
 #home {
     text-align:center;
     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    height: 600px;
 }
 #home img {
-    width: 50%
+    width: 25%;
+        height:60%
 }
 
 body {
     text-align: center;
+}
+
+.announcement {
+    background-color: skyblue;
+}
+
+h1 {
+    font-size: 50px;
+        font-weight: bold;
+    margin-top: 75px;
 }
